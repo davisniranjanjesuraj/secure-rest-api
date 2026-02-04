@@ -101,9 +101,9 @@ SQLite database will be created automatically.
 ```http://127.0.0.1:5000```
 
 ---
-##API Documentation (Swagger)
+## API Documentation (Swagger)
 
-###Swagger UI is available at:
+### Swagger UI is available at:
 ```http://127.0.0.1:5000/apidocs/```
 
 #### This provides:
@@ -135,7 +135,7 @@ Authentication and authorization coverage
 
 Deterministic, repeatable tests
 
-####Run Tests
+#### Run Tests
 ```pytest```
 
 ---
@@ -187,7 +187,7 @@ Input validation prevents malformed data
 Centralized error handling avoids data leakage
 
 ---
-###Key Learnings
+### Key Learnings
 
 JWT identity serialization handling
 
@@ -239,3 +239,4 @@ Davis Niranjan
 ---
 ###License
 This project is licensed for educational use.
+
