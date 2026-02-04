@@ -237,6 +237,7 @@ Production-style backend architecture
 Davis Niranjan
 
 ---
-###License
+### License
 This project is licensed for educational use.
+
 
